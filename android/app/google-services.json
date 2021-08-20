@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863584865182",
+    "firebase_url": "https://i2i-tradehood.firebaseio.com",
+    "project_id": "i2i-tradehood",
+    "storage_bucket": "i2i-tradehood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863584865182:android:250cfcda6cd68d4050648f",
+        "android_client_info": {
+          "package_name": "com.kvngalka.i2i_tradehood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863584865182-4u7veafeq2seo1fpb22pot1k8s0jhkb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9uw4A1MbDkbqlFnzOWMsxh1A2HlnkslE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863584865182-4u7veafeq2seo1fpb22pot1k8s0jhkb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
